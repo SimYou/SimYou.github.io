@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About SimYou
+subtitle: Creating digital experiences that feel uniquely yours
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+SimYou is a pioneering technology company focused on creating personalized digital experiences.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Our Mission
 
-What else do you need?
+We leverage cutting-edge AI technology to build digital experiences that truly understand and adapt to you.
 
-### My story
+### What We Do
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Create AI-driven personalized experiences
+- Develop technology that learns and grows with you
+- Design intuitive interfaces for seamless interaction
+
+### Our Vision
+
+At SimYou, we believe the future of technology is deeply personal. We're building a world where digital experiences feel uniquely yours, understanding your preferences, anticipating your needs, and adapting to your life.
