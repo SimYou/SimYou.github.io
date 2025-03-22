@@ -21,7 +21,7 @@ author: SimYou Team
 
 navbar-links:
   About: "aboutme"
-  Products: "#"
+  Products: "products"
   Blog: "blog"
   Contact: "contact"
 

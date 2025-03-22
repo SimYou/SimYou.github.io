@@ -8,17 +8,12 @@ Have questions about SimYou or interested in learning more about our products an
 
 ### Contact Information
 
-**Email**: info@simyou.com
-
-**Phone**: (555) 123-4567
+**Email**: Lee@simyou.ai
 
 ### Office Location
 
-123 Tech Drive  
-San Francisco, CA 94105
+SimYou is proudly a remote-only company. A physical mailing address is available upon request.
 
 ### Connect With Us
 
-Follow us on social media for the latest updates and news about SimYou.
-
-We look forward to hearing from you!
+Follow us on social media for the latest updates and news about SimYou. All our social links are available at the bottom of every page.
