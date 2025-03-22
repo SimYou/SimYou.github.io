@@ -19,8 +19,8 @@ We're curious researchers and developers interested in finding practical applica
 ### Our Values
 
 - **Empirical Science**: We collect meaningful data, measure user interactions, and iterate based on quantifiable results. This evidence-based approach helps us create experiences that actually work rather than just sounding impressive. We apply research-backed understanding of human cognition and behavior to build efficacious designs that resonate with real users.
-- **Jolly Cooperation**: We believe the best ideas emerge through collaboration and diverse perspectives
-- **Fun First**: We create things we'd genuinely enjoy experiencing ourselves
+- **Jolly Cooperation**: We embrace diverse perspectives and collaborative problem-solving to create something greater than any individual could alone. Our team values open communication, constructive feedback, and the willingness to learn from one another. We're committed to fostering an environment where ideas can be freely shared and refined through thoughtful discussion.
+- **Fun First**: We believe enjoyment is fundamental to meaningful experiences, not just an afterthought. Our approach prioritizes creating content that's intrinsically engaging and satisfying to interact with. When developers and users alike find genuine pleasure in an experience, everything else—retention, engagement, even learning—follows naturally. We're serious about our work, but never at the expense of the joy that inspired us to build in the first place.
 
 ### Who We Are
 
