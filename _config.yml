@@ -49,13 +49,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "info@simyou.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: simyou
+  email: "lee@simyou.ai"
   github: SimYou
-  twitter: simyou
-  linkedin: simyou
-  instagram: simyou
+  twitter: simyou_
+#  linkedin: simyou
+#  facebook: simyou
+#  instagram: simyou
+#  rss: true
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -135,16 +135,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+text-col: "#2A3B47"
+link-col: "#0070D8"
+hover-col: "#005BB1"
+navbar-col: "#1A2A36"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#0F1921"
+footer-col: "#1A2A36"
+footer-text-col: "#D8D8D8"
+footer-link-col: "#FFFFFF"
+footer-hover-col: "#7CBCFF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
