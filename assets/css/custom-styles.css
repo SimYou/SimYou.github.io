@@ -1,24 +1,81 @@
-/* Custom button styling to match the color scheme */
+/* Custom styling to match the color scheme */
+
+/* Button styling */
 .btn-primary {
   background-color: #00A1B1;
   border-color: #00A1B1;
+  color: #FFFFFF;
 }
 
 .btn-primary:hover, 
 .btn-primary:focus, 
-.btn-primary:active {
-  background-color: #008795;
-  border-color: #008795;
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #008795 !important;
+  border-color: #008795 !important;
+  color: #FFFFFF !important;
 }
 
 .btn-outline-primary {
   color: #00A1B1;
   border-color: #00A1B1;
+  background-color: transparent;
 }
 
 .btn-outline-primary:hover,
 .btn-outline-primary:focus,
-.btn-outline-primary:active {
+.btn-outline-primary:active,
+.btn-outline-primary.active {
+  background-color: #00A1B1 !important;
+  border-color: #00A1B1 !important;
+  color: #FFFFFF !important;
+}
+
+/* Override Bootstrap's default blue focus outline */
+.btn:focus, .btn.focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 161, 177, 0.25);
+}
+
+/* Ensure links match the color scheme */
+a {
+  color: #00A1B1;
+}
+
+a:hover, a:focus {
+  color: #008795;
+  text-decoration: underline;
+}
+
+/* Navigation bar active item styling */
+.navbar-light .navbar-nav .active>.nav-link, 
+.navbar-light .navbar-nav .nav-link.active {
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+/* Adjust pagination to match color scheme */
+.pagination .page-item.active .page-link {
   background-color: #00A1B1;
   border-color: #00A1B1;
+}
+
+.pagination .page-link {
+  color: #00A1B1;
+}
+
+.pagination .page-link:hover {
+  color: #008795;
+}
+
+/* Remove any Bootstrap default blues */
+.text-primary {
+  color: #00A1B1 !important;
+}
+
+.bg-primary {
+  background-color: #00A1B1 !important;
+}
+
+.border-primary {
+  border-color: #00A1B1 !important;
 }
