@@ -6,14 +6,12 @@ subtitle: Revolutionary personalized experiences
 
 ## Rouge Galaxy
 
-*Coming Soon*
+[**Play Now**](/rogue-galaxy)
 
-### A New Era of Gaming
+### A space opera roguelike deckbuilder autobattler game
 
-Rouge Galaxy is our upcoming gaming experience that explores the potential of AI to create uniquely personal adventures. By harnessing the power of advanced language models, we're developing an innovative approach to interactive entertainment that adapts to each player.
+Rouge Galaxy is our new gaming experience that explores the potential of AI to create uniquely personal adventures. By harnessing the power of advanced language models, we've developed an innovative approach to interactive entertainment that adapts to each player.
 
-Our vision is a game world that feels alive and responsive - one that understands your preferences and creates moments tailored specifically for you. The possibilities of this technology are just beginning to unfold, and Rouge Galaxy represents our first step into this exciting new frontier.
+Our vision is a game world that feels alive and responsive - one that understands your preferences and creates moments tailored specifically for you.
 
-### Development Status
-
-Rouge Galaxy is currently in early development. We're excited to share more details about this groundbreaking project in the coming months.
+[Learn more about Rouge Galaxy](/rogue-galaxy)
